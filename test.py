@@ -3,3 +3,4 @@
 
 print("Hello Students");
 print("welcome to Django");
+print("***All The Best***");
